@@ -19,29 +19,24 @@
     "link": "https://twitter.com/generatedart",
     "image": "images/social/instagram.svg"
   },
-    {
-    "name": "Github",
-    "link": "https://github.com/generatedart",
-    "image": "images/social/github.svg"
-  },
   {
     "name": "Medium",
     "link": "https://medium.com/generatedart",
-    "image": "images/social/twitter.svg"
+    "image": "images/social/medium.svg"
   },
   {
     "name": "Youtube",
     "link": "https://github.com/generatedart",
-    "image": "images/social/facebook.svg"
+    "image": "images/social/youtube.svg"
   },
   {
     "name": "LinkedIn",
     "link": "https://linkedin.com/company/generatedart",
-    "image": "images/social/instagram.svg"
+    "image": "images/social/linkedin.svg"
   },
   {
     "name": "Tiktok",
     "link": "https://twitter.com/generatedart",
-    "image": "images/social/instagram.svg"
+    "image": "images/social/tiktok.svg"
   }
 ]
