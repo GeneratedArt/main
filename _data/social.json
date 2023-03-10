@@ -1,12 +1,47 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/generatedart",
     "image": "images/social/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/generatedart",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://github.com/generatedart",
+    "image": "images/social/facebook.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://twitter.com/generatedart",
+    "image": "images/social/instagram.svg"
+  },
+    {
+    "name": "Github",
+    "link": "https://github.com/generatedart",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Medium",
+    "link": "https://medium.com/generatedart",
+    "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Youtube",
+    "link": "https://github.com/generatedart",
+    "image": "images/social/facebook.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/company/generatedart",
+    "image": "images/social/instagram.svg"
+  },
+  {
+    "name": "Tiktok",
+    "link": "https://twitter.com/generatedart",
+    "image": "images/social/instagram.svg"
   }
 ]
