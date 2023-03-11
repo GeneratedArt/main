@@ -1,21 +1,27 @@
 main:
-  - name: "Services"
-    url: "/services/"
-    weight: 2
-  - name: "Team"
-    url: "/team/"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
-
-footer:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Apply"
+    url: "/apply/"
+    weight: 3
+  - name: "Demo"
+    url: "/demo/"
+    weight: 4
+  - name: "About"
+    url: "/about/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
+    weight: 6
+
+footer:
+  - name: "Main site"
+    url: "https://generatedart.com"
+    weight: 1
+  - name: "Research"
+    url: "https://medium.com/generatedart"
     weight: 2
