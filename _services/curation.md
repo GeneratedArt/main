@@ -6,7 +6,7 @@ weight: 1
 
 Our curation service for generative art exhibitions is dedicated to showcasing the best and most innovative works of generative art from around the world. Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for creativity, technical proficiency, and artistic vision.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/curation.png)
 
 # General overview
 
