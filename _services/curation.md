@@ -4,81 +4,22 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Our curation service for generative art exhibitions is dedicated to showcasing the best and most innovative works of generative art from around the world. Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for creativity, technical proficiency, and artistic vision.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# General overview
 
-Financial accounting and financial reporting are often used as synonyms.
+As part of our curation process, we review the profiles of each artist whose work we consider for exhibition. This includes assessing their experience and background in generative art, as well as their overall artistic vision and aesthetic style. We believe that understanding the artist behind the artwork is essential to creating a rich and engaging exhibition experience for our audience.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+In addition to artist profiles, we also carefully audit the creative source code used in each piece of artwork. This involves reviewing the code to ensure that it is well-structured, well-documented, and follows best practices for coding style and standards. We also test the code in a controlled environment to ensure that it is functioning as intended, and that it does not contain any errors or vulnerabilities that could compromise the security or integrity of the artwork.
 
-## Relevance
+Our curation service is dedicated to promoting and advancing the field of generative art, and we are committed to showcasing the best and most innovative works from around the world. By carefully reviewing and auditing each piece of artwork, we ensure that our exhibitions are of the highest quality and offer a unique and engaging experience for our audience.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Curation methods
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+1. Technical proficiency: Generative art often involves complex technical processes, and curators must be able to evaluate the technical proficiency of the artwork being considered. This includes assessing the quality and complexity of the code used to generate the artwork, as well as the technical skill and experience of the artist.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+2. Artistic vision: Generative art is first and foremost an artistic practice, and curators must be able to evaluate the artistic vision and aesthetic quality of the artwork being considered. This includes assessing the originality, creativity, and innovation of the work, as well as its ability to communicate ideas and emotions.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+3. Cohesiveness: A successful generative art exhibition should be cohesive and engaging, and curators must be able to select works that fit together thematically and aesthetically. This includes assessing how individual works will fit together as part of the larger exhibition, as well as how the exhibition as a whole will engage and inspire the audience.
