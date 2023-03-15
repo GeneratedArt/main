@@ -1,8 +1,8 @@
 
 ---
-title: About
-layout: page
-description: About
+title: Demo
+layout: demo
+description: demo
 bodyClass: page-about
 ---
 
