@@ -4,12 +4,11 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Our platform hosts its own nodes for Bitcoin using the Lightning network, Ethereum using the Raiden network, and other blockchain networks such as Cardano and Solana.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+
+With our secure and reliable infrastructure, we provide lightning-fast payment solutions for our clients, enabling them to transact with ease and convenience. Our commitment to using the latest technology ensures that our nodes are always up-to-date and fully optimized for performance, security, and scalability.
 
 # Objectives
 
