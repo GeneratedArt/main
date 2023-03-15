@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Our curation service for generative art exhibitions is dedicated to showcasing the best and most innovative works of generative art from around the world.
+Dedicated to showcasing the best and most innovative works of generative art from around the world, our curation service for generative art exhibitions is committed to promoting and advancing the field of generative art.
 
 ![Accounting Services](/images/curation.png)
 
