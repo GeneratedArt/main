@@ -26,7 +26,7 @@ Our curation service is dedicated to promoting and advancing the field of genera
 
 3. Cohesiveness: A successful generative art exhibition should be cohesive and engaging, and curators must be able to select works that fit together thematically and aesthetically. This includes assessing how individual works will fit together as part of the larger exhibition, as well as how the exhibition as a whole will engage and inspire the audience.
 
-# The organiser
+# The organizer
 
 Are you an exhibition organizer looking for innovative and engaging artwork to showcase? Let our curation service help! We specialize in selecting and curating the best and most innovative works of generative art from around the world. Our team of experienced curators carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity. We also consider the cohesiveness of the overall exhibition to ensure a unique and engaging experience for your audience. Contact us today to learn how we can help create a one-of-a-kind generative art exhibition for your venue or event.
 
