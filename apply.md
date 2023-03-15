@@ -2,7 +2,7 @@
 ---
 title: Apply
 layout: page
-description: Apply
+description: apply
 bodyClass: page-about
 ---
 
