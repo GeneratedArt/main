@@ -4,7 +4,7 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-The installation services for generative art exhibitions aim to provide a seamless and immersive experience for audiences. The installation process is a crucial part of any exhibition, and the team works closely with clients to execute flawless installations.
+Generative art exhibitions aim to provide a seamless and immersive experience for wide range of audiences. The installation process is a crucial part of any exhibition, and the team works closely with clients to execute flawless installations.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
