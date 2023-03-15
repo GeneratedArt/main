@@ -23,6 +23,7 @@ Financial accounting and financial reporting are often used as synonyms.
 XY plots using plotters are a popular technique for creating generative art, where machines use a pen or other tool to draw or paint on any surface based on digital input. At GeneratedArt, we offer a unique service of high-quality printing for generative art created using XY plotting, using advanced robotic arms to print on any surface and with a range of tools including pens, paint, and scratching tools in full color. Currently, we provide A3 format prints of the highest quality thanks to our technical expertise and attention to detail. Our printing services are perfect for artists looking to bring their XY plots to life or art enthusiasts looking to add a unique and captivating piece to their collection.
 
 ### File formats
+
 All image file formats are accepted.
 
 ### Surfaces
@@ -32,4 +33,11 @@ XY plotters can print on a wide range of surfaces, including paper, cardboard, v
 ## 3d sculptures
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+
+### File formats
+
+
+### Materials
+
+
 
