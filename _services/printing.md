@@ -10,7 +10,7 @@ At GeneratedArt, we offer a range of services for printing 2D and 3D generative 
 
 Our team of experienced professionals works closely with each client to ensure that their vision is realized in the final product. Contact us today to learn more about our printing services and how we can help bring your generative art to life.
 
-# Objectives
+# General overview
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -20,11 +20,14 @@ Financial accounting and financial reporting are often used as synonyms.
 
 ## XY plots
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+XY plots using plotters are a popular technique for creating generative art, where machines use a pen or other tool to draw or paint on any surface based on digital input. At GeneratedArt, we offer a unique service of high-quality printing for generative art created using XY plotting, using advanced robotic arms to print on any surface and with a range of tools including pens, paint, and scratching tools in full color. Currently, we provide A3 format prints of the highest quality thanks to our technical expertise and attention to detail. Our printing services are perfect for artists looking to bring their XY plots to life or art enthusiasts looking to add a unique and captivating piece to their collection.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### File formats
+All image file formats are accepted.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Surfaces
+
+XY plotters can print on a wide range of surfaces, including paper, cardboard, vinyl, fabric, leather, wood, metal, and plastics. The type of surface used will depend on the specific application and the requirements of the artwork being created. Some surfaces may require special preparation or treatment before printing to ensure optimal adhesion and print quality, while others may be incompatible with certain types of ink or printing methods. It's important to carefully consider the surface and printing materials when designing and creating generative art using an XY plotter.
 
 ## 3d sculptures
 
