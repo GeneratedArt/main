@@ -40,5 +40,8 @@ Comparability is the uniform application of accounting methods across entities i
 
 # Articles
 
+[The Power of Generative Art for Philanthropy](http://example.com](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)
+
+
 <a href="[url](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)">The Power of Generative Art for Philanthropy</a>
 
