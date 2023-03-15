@@ -2,11 +2,11 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/services.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Artistic innovation at its finest
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our services offer the perfect blend of artistic innovation and technical expertise, featuring top-tier curation, lightning-fast payments, high-quality printing, expert asset management, technical support for installations, and strategic promotion.
