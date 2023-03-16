@@ -4,7 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-At GeneratedArt, we offer a range of services for printing 2D and 3D generative art. With our advanced printing technology and expertise, we can produce high-quality prints of your favorite generative art pieces, whether you're looking for a stunning 2D print for your home or office, or a unique 3D sculpture for a special event or exhibition.
+We offer a range of services for printing 2D and 3D generative art. With our advanced printing technology and expertise, we can produce high-quality prints of your favorite generative art pieces, whether you're looking for a stunning 2D print for your home or office, or a unique 3D sculpture for a special event or exhibition.
 
 ![Accounting Services](/images/printing.png)
 
@@ -12,15 +12,11 @@ Our team of experienced professionals works closely with each client to ensure t
 
 # General overview
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Printing XY plotters and 3D printers are popular techniques used to create generative art for exhibitions. The XY plotters can print on a wide range of surfaces, such as paper, cardboard, vinyl, fabric, leather, wood, metal, and plastics. This allows for unique and captivating pieces to be created for display. 3D printers can be used to create sculptures or other 3D pieces using various materials, such as PETG, PLA, TPU, and wood. These techniques provide endless possibilities for creating interactive and immersive experiences for art enthusiasts and audiences.
 
 ## XY plots
 
-XY plots using plotters are a popular technique for creating generative art, where machines use a pen or other tool to draw or paint on any surface based on digital input. At GeneratedArt, we offer a unique service of high-quality printing for generative art created using XY plotting, using advanced robotic arms to print on any surface and with a range of tools including pens, paint, and scratching tools in full color. Currently, we provide A3 format prints of the highest quality thanks to our technical expertise and attention to detail. Our printing services are perfect for artists looking to bring their XY plots to life or art enthusiasts looking to add a unique and captivating piece to their collection.
+XY plots using plotters are a popular technique for creating generative art, where machines use a pen or other tool to draw or paint on any surface based on digital input. We offer a unique service of high-quality printing for generative art created using XY plotting, using advanced robotic arms to print on any surface and with a range of tools including pens, paint, and scratching tools in full color. Currently, we provide A3 format prints of the highest quality thanks to our technical expertise and attention to detail. Our printing services are perfect for artists looking to bring their XY plots to life or art enthusiasts looking to add a unique and captivating piece to their collection.
 
 ### File formats
 
@@ -32,12 +28,19 @@ XY plotters can print on a wide range of surfaces, including paper, cardboard, v
 
 ## 3d sculptures
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+3D generative sculptures can be created using algorithmic design techniques and then fabricated using 3D printing technology. This allows for the creation of intricate and complex structures that would be difficult or impossible to create using traditional sculpting methods. These sculptures can be displayed as standalone pieces of art or incorporated into larger installations for generative art exhibitions. Additionally, 3D printing allows for the easy replication of sculptures, making it possible to create multiple identical pieces for a wider distribution or sale.
 
 ### File formats
 
+OBJ (Wavefront Object),	FBX,	DAE (COLLADA).
 
 ### Materials
+
+PETG, PLA, TPU, Wood
+
+# Articles
+
+[Reducing Waste and Excess Inventory through 3D Printing](https://medium.com/@guillaumelauzier/reducing-waste-and-excess-inventory-through-3d-printing-5609fd039dd6)
 
 
 
