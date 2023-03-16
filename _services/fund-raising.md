@@ -6,7 +6,7 @@ weight: 5
 
 We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help individuals and organizations raise capital for different causes through the creation and sale of generative art.
 
-![Accounting Services](/images/fund-raising.png)
+![Accounting Services](/images/illustrations/fund-raising.png)
 
 # General overview
 
