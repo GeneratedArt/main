@@ -10,77 +10,32 @@ Utilizing computational services for generative art exhibitions can offer a rang
 
 Equipped with expertise in computational methods and generative art, our team can provide innovative and cutting-edge solutions for any project, helping to bring your artistic vision to life in ways you never thought possible.
 
-# Objectives
+# General overview
 
-Financial accounting and financial reporting are often used as synonyms.
+Computational services for generative art exhibitions involve the use of advanced technology and computational methods to create and display art that is constantly evolving and changing. This type of art is created using algorithms and can be programmed to respond to various inputs or data sets, creating unique and innovative pieces that are never the same. The possibilities are endless with computational generative art, ranging from 2D and 3D renders to AI-generated artwork. Our computational services team has expertise in utilizing neural networks, developing complex algorithms, and rendering high-quality pieces. This type of service is essential for organizations and artists looking to push the boundaries of traditional art and create immersive and interactive experiences for their audiences.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## AI Art
 
-## Relevance
+Creating AI Art installations for exhibitions requires specialized hardware and development expertise. Our team is equipped with the necessary tools and expertise to create unique AI Art installations that push the boundaries of traditional art forms.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+To achieve this, we provide powerful computing hardware capable of handling the complex computations required for AI Art generation. This hardware is coupled with our development expertise in AI, machine learning, and generative art to create installations that seamlessly integrate technology and art.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Real-time interaction
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Real-time interactive installations for exhibitions demand powerful hardware that can handle the processing required for the generative art and interactive components. We provide the necessary equipment, such as high-performance computers, to ensure that your installation runs smoothly and without any technical issues. Our team of experts is skilled in configuring and setting up the hardware to ensure optimal performance and reliability. With our expertise in hardware and software, we can help you create a unique and immersive experience for your audience that will leave a lasting impression.
 
-## Faithful Representation
+## Rendering
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Algorithm development
 
-## Enhancing Qualitative Characteristics
+### Hardware availability
 
-### Verifiability
+GPU : RTX 3090, RTX 3080, RTX 3070, RTX 3070, RTX 3060, RTX 2060, GTX 1660 Super, GTX 1660 TI, RTX A2000.
+CPU : AMD Threadripper up to 24 cores, AMD Ryzen 9 up to 12 cores.
+RAM : 2TB max on single motherboard.
+DATA : On demand SSD/HDD.
+INTERNET : 10 Gbit/S.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+# Articles
 
-### Comparability
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
