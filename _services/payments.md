@@ -6,7 +6,7 @@ weight: 2
 
 The platform hosts its own nodes for various payment channels, including Bitcoin using the Lightning network, Ethereum using the Raiden network, Cardano, and Solana.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/payments.png)
 
 With our secure and reliable infrastructure, we provide lightning-fast payment solutions for our clients, enabling them to transact with ease and convenience. Our commitment to using the latest technology ensures that our nodes are always up-to-date and fully optimized for performance, security, and scalability.
 
