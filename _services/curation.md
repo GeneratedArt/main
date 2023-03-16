@@ -33,3 +33,9 @@ Are you an exhibition organizer looking for innovative and engaging artwork to s
 # The artist
 
 Are you an artist working in the field of generative art? Let us showcase your work to the world! Our curation service carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency and artistic vision. We also consider the artist's background and experience in generative art to create a rich and engaging exhibition experience for our audience. Join our community of innovative artists and let us help promote and advance the field of generative art. Contact us today to submit your work for consideration.
+
+# Articles
+
+<a href="[url](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)">Generative art and the blurred lines of authenticity</a>
+
+<a href="[url](https://medium.com/generatedart/challenging-traditional-notions-of-art-and-artist-with-generative-art-193811e3d406)">Challenging Traditional Notions of Art and Artist with Generative Art</a>
