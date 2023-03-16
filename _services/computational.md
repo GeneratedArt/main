@@ -4,7 +4,7 @@ date: 2018-12-28T15:14:39+10:00
 weight: 8
 ---
 
-Utilizing computational services for generative art exhibitions can offer a range of possibilities, including the creation of AI art using neural networks, rendering 2D and 3D pieces, and developing complex algorithms.
+Utilizing computational services for generative art exhibitions can offer a range of possibilities, including the creation of AI art using neural networks, real-time interactive graphics, rendering 2D and 3D pieces, and developing complex algorithms.
 
 ![Accounting Services](/images/illustrations/computational.png)
 
