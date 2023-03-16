@@ -6,7 +6,7 @@ weight: 6
 
 Generative art exhibitions aim to provide a seamless and immersive experience for wide range of audiences. The installation process is a crucial part of any exhibition, and the team works closely with clients to execute flawless installations.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/installation.png)
 
 Our team of experienced professionals understands the significance of the installation process and works closely with our clients to ensure flawless execution. With expertise in designing and installing complex generative art installations, we are equipped to handle projects of all sizes and scopes. From ideation to execution, we take pride in delivering high-quality installations that enhance the overall impact and message of each exhibition.
 
