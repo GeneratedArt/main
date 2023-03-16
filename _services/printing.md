@@ -6,7 +6,7 @@ weight: 3
 
 We offer a range of services for printing 2D and 3D generative art. With our advanced printing technology and expertise, we can produce high-quality prints of your favorite generative art pieces, whether you're looking for a stunning 2D print for your home or office, or a unique 3D sculpture for a special event or exhibition.
 
-![Accounting Services](/images/printing.png)
+![Printing](/images/printing.png)
 
 Our team of experienced professionals works closely with each client to ensure that their vision is realized in the final product. Contact us today to learn more about our printing services and how we can help bring your generative art to life.
 
@@ -29,6 +29,8 @@ XY plotters can print on a wide range of surfaces, including paper, cardboard, v
 ## 3d sculptures
 
 3D generative sculptures can be created using algorithmic design techniques and then fabricated using 3D printing technology. This allows for the creation of intricate and complex structures that would be difficult or impossible to create using traditional sculpting methods. These sculptures can be displayed as standalone pieces of art or incorporated into larger installations for generative art exhibitions. Additionally, 3D printing allows for the easy replication of sculptures, making it possible to create multiple identical pieces for a wider distribution or sale.
+
+![3D generative sculptures](/images/illustrations/sculptures.png)
 
 ### File formats
 
