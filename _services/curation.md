@@ -36,8 +36,6 @@ Are you an artist working in the field of generative art? Let us showcase your w
 
 # Articles
 
-<a href="[url](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)">Generative art and the blurred lines of authenticity</a>
+[Generative art and the blurred lines of authenticity](https://medium.com/generatedart/generative-art-and-the-blurred-lines-of-authenticity-80d5417d8c03)
 
-<a href="[url](https://medium.com/generatedart/challenging-traditional-notions-of-art-and-artist-with-generative-art-193811e3d406)">Challenging Traditional Notions of Art and Artist with Generative Art</a>
-
-[file on another domain](https://medium.com/generatedart/challenging-traditional-notions-of-art-and-artist-with-generative-art-193811e3d406)
+[Challenging Traditional Notions of Art and Artist with Generative Art](https://medium.com/generatedart/challenging-traditional-notions-of-art-and-artist-with-generative-art-193811e3d406)
