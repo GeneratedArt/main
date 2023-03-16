@@ -4,7 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-The platform hosts its own nodes for various payment channels, including Bitcoin using the Lightning network, Ethereum using the Raiden network, Cardano, and Solana.
+Our platform hosts nodes for various payment channels, including Bitcoin using the Lightning network, Ethereum using the Raiden network, Cardano, and Solana.
 
 ![Accounting Services](/images/illustrations/payments.png)
 
