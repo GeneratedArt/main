@@ -4,9 +4,11 @@ date: 2018-12-28T15:14:39+10:00
 weight: 8
 ---
 
-Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Utilizing computational services for generative art exhibitions can offer a range of possibilities, including the creation of AI art using neural networks, rendering 2D and 3D pieces, and developing complex algorithms.
 
 ![Accounting Services](/images/illustrations/computational.png)
+
+Equipped with expertise in computational methods and generative art, our team can provide innovative and cutting-edge solutions for any project, helping to bring your artistic vision to life in ways you never thought possible.
 
 # Objectives
 
