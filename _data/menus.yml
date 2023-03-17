@@ -2,21 +2,18 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
+  - name: "About"
+    url: "/about/"
+    weight: 2
   - name: "Services"
     url: "/services/"
-    weight: 2
-  - name: "Apply"
-    url: "/apply/"
     weight: 3
   - name: "Demo"
     url: "/demo/"
     weight: 4
-  - name: "About"
-    url: "/about/"
-    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 6
+    weight: 5
 
 footer:
   - name: "Main site"
@@ -25,3 +22,6 @@ footer:
   - name: "Research"
     url: "https://medium.com/generatedart"
     weight: 2
+  - name: "Application"
+    url: "/apply/"
+    weight: 3
