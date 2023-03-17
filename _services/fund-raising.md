@@ -6,7 +6,7 @@ weight: 5
 
 We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help individuals and organizations raise capital for different causes through the creation and sale of generative art.
 
-![Accounting Services](/images/illustrations/fund-raising.png)
+![Fund raising](/images/illustrations/fund-raising.png)
 
 # General overview
 
@@ -31,6 +31,8 @@ Fund raising through generative art exhibitions allows organizations to creative
 These generative art pieces can then be exhibited at a public exhibition, where they can be sold to art enthusiasts and collectors to raise funds for the organization's cause. The use of generative art not only allows organizations to raise funds for their cause, but also provides a platform to raise awareness and educate the public on the importance of their cause.
 
 Generative art exhibitions also provide an opportunity for organizations to collaborate with artists, technologists, and other creatives to bring their vision to life. This collaboration can result in unique and impactful works of art that not only raise funds, but also inspire and engage the audience.
+
+![Organizations](/images/illustrations/blue.png)
 
 ### Artists
 
