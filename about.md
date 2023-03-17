@@ -7,7 +7,7 @@ bodyClass: page-about
 
 GeneratedArt is a creative platform that specializes in generative art exhibitions and offers a wide range of computational services for artists, organizations, and anyone looking to explore the world of generative art.
 
-![About](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![About](/images/illustrations/about.png)
 
 # Our mission
 
