@@ -58,7 +58,7 @@ Algorithm development for generative art involves designing and coding mathemati
 
 We offer custom-built computers designed specifically for generative art projects, 
 
-- GPU: RTX 3090, RTX 3080, RTX 3070, RTX 3070, RTX 3060, RTX 2060, GTX 1660 Super, GTX 1660 TI, RTX A2000.
+- GPU: RTX 3090, RTX 3080, RTX 3070, RTX 3070, RTX 3060, RTX 2060, RTX 1080TI, GTX 1660 Super, GTX 1660 TI, RTX A2000.
 - CPU: AMD Threadripper up to 24 cores, AMD Ryzen 9 up to 12 cores.
 - RAM: 2TB max on single motherboard, current total capacity 13TB DDR4.
 - MOBO: Up to 6 x16 PCIE slots.
