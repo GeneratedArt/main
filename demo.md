@@ -12,77 +12,31 @@ crimen habet Priamum nec.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Introduction
 
-Financial accounting and financial reporting are often used as synonyms.
+The GeneratedArt platform provides benefits to all parties involved in the generative art ecosystem, including venues, generative artists, collectors and buyers. For venues, it offers an opportunity to showcase a new and innovative art form that can attract a wider audience and drive traffic to their location. For generative artists, it provides a platform to showcase their work to a global audience, connect with potential buyers, and monetize their creations. For collectors, it offers a new way to invest in and collect generative art, with the added benefit of ownership and trade enabled through tokenization. You can discover new venues and locations in a city, making it a great tool for tourism, while also supporting both venues and generative artists to gain exposure and reach a wider audience.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Instructions
 
-## Relevance
+The GeneratedArt demo is a platform that offers two options for buying generative art. Visitors can explore different locations in a city to buy physical collections or buy them directly online. Here, we will focus on the physical collections available in exhibitions.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+1. To begin, visitors can search for different venues on a city map, which will show them details of the generative art pieces available, including directions to the physical location where the art piece can be seen.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+2. Once the visitor has arrived at the venue, they can find the specific art piece they are interested in purchasing and scan the QR code located beside it.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+3. The platform offers various payment options, including credit card payments and cryptocurrency payments such as Bitcoin, Ethereum, Cardano, Solana, and Tezos. The buyer will receive a receipt that can be used as proof of ownership when leaving with the art piece.
 
-## Faithful Representation
+## Application components
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+- Venue map with keyword search and filtering
+- Art collection page, with information on the art piece, price and venue location.
+- Printed QR codes, from our self-hosted QR code generator
+- Payment option selection menu
+- Credit card payment protocol
+- Bitcoin payment protocol using the Lightning network
+- Ethereum payment protocol using the Raiden network
+- Cardano payment protocol
+- Solana payment protocol
+- Tezos payment protocol
+- Receipt with QR code for proof of ownership
+- Optional NFT: Digital art, Proof of ownership on a smart contract.
