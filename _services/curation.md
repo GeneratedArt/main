@@ -18,7 +18,9 @@ In addition to artist profiles, we also carefully audit the creative source code
 
 Our curation service is dedicated to promoting and advancing the field of generative art, and we are committed to showcasing the best and most innovative works from around the world. By carefully reviewing and auditing each piece of artwork, we ensure that our exhibitions are of the highest quality and offer a unique and engaging experience for our audience.
 
-## Curation methods
+## Curation Process
+
+Our curation process is based on three key principles to ensure a high-quality exhibition experience for our audience. These principles include:
 
 1. Technical proficiency: Generative art often involves complex technical processes, and curators must be able to evaluate the technical proficiency of the artwork being considered. This includes assessing the quality and complexity of the code used to generate the artwork, as well as the technical skill and experience of the artist.
 
@@ -26,13 +28,19 @@ Our curation service is dedicated to promoting and advancing the field of genera
 
 3. Cohesiveness: A successful generative art exhibition should be cohesive and engaging, and curators must be able to select works that fit together thematically and aesthetically. This includes assessing how individual works will fit together as part of the larger exhibition, as well as how the exhibition as a whole will engage and inspire the audience.
 
-# The organizer
+## For Exhibition Organizers
 
 Are you an exhibition organizer looking for innovative and engaging artwork to showcase? Let our curation service help! We specialize in selecting and curating the best and most innovative works of generative art from around the world. Our team of experienced curators carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity. We also consider the cohesiveness of the overall exhibition to ensure a unique and engaging experience for your audience. Contact us today to learn how we can help create a one-of-a-kind generative art exhibition for your venue or event.
 
-# The artist
+# For Artists
 
 Are you an artist working in the field of generative art? Let us showcase your work to the world! Our curation service carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency and artistic vision. We also consider the artist's background and experience in generative art to create a rich and engaging exhibition experience for our audience. Join our community of innovative artists and let us help promote and advance the field of generative art. Contact us today to submit your work for consideration.
+
+
+Get started with our curation service today!
+
+[Apply Now](/apply)
+
 
 # Articles
 
