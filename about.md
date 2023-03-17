@@ -22,3 +22,11 @@ GeneratedArt is an innovative platform that was first established as a blog in 2
 Guillaume Lauzier, the founder of GeneratedArt, has extensive experience in event planning, technology, and digital art. He manages the GeneratedArt exhibitions and is always at the forefront of new technologies and innovation.
 
 Guillaume Lauzier's experience in events includes working for almost two years at the Crochetan Theatre in Switzerland, where he helped on technical sets for concerts. He has also worked for two years at Dorier International Group, mainly on multinational corporate events. As an independent video reporter and producer, he has worked for four years on festivals and different corporate events. As an independent artist, Guillaume has worked on VJ sets, music production and interactive installations. This diverse range of experience has made him an expert in his field and well-equipped to manage GeneratedArt exhibitions.
+
+# Articles
+
+[The Power of Generative Art for Philanthropy](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)
+
+[Impact of Data-Driven Art on Scientific Discovery and Innovation](https://medium.com/generatedart/impact-of-data-driven-art-on-scientific-discovery-and-innovation-c60f126aeb65)
+
+[Emotional XYZ sound wave](https://medium.com/generatedart/emotional-xyz-sound-wave-a1c5b7f3bb34)
