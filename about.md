@@ -15,7 +15,7 @@ Our mission is to make generative art accessible to all ages and audiences. We b
 
 # History
 
-GeneratedArt is an innovative platform that was first established as a blog in 2016 by Guillaume Lauzier. It was launched as an extension of the VJs Magazine and VJs TV platform with the aim of showcasing generative art works. Since 2021, the platform has been actively working towards organizing exhibitions that are dedicated to generative art. More recently, GeneratedArt is working on bringing to life a platform to buy generative art in physical locations and online.
+GeneratedArt is an innovative platform that was first established as a blog in 2016 by Guillaume Lauzier. It was launched as an extension of the VJs Magazine and VJs TV platform with the aim of showcasing generative art works. Since 2022, the platform has been actively working towards organizing exhibitions that are dedicated to generative art. More recently, GeneratedArt is working on bringing to life a platform to buy generative art in physical locations and online.
 
 Guillaume Lauzier, the founder of GeneratedArt, has extensive experience in event planning, technology, and digital art. He manages the GeneratedArt exhibitions and is always at the forefront of new technologies and innovation.
 
