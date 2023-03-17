@@ -16,9 +16,17 @@ Computational services for generative art exhibitions involve the use of advance
 
 ## Data integration
 
-Real life data can be used for generative art by integrating it as an input source for algorithms, allowing the artwork to be influenced by real-time events or datasets. This can result in unique and constantly evolving pieces of art.
+Real-life data can be used for generative art by integrating it as an input source for algorithms, allowing the artwork to be influenced by real-time events or datasets. This can result in unique and constantly evolving pieces of art.
 
-Our computational services team has the expertise to find solutions to connect data providers with generative art. We can work with data providers to understand their data structure and format, and then develop custom algorithms that can ingest and interpret the data in real-time. This allows us to create generative art that is responsive to the data inputs, resulting in innovative and engaging visualizations.
+Our computational services team has the expertise to find solutions to connect data providers with generative art. We can work with a wide range of data sources and formats, providing potential clients with flexibility and versatility for their generative art projects. Some examples of the types of data sources and formats we can work with include:
+
+1. Public and private APIs: We can connect to various APIs, such as weather, financial market data, social media, or any other data provider offering an API to access their data.
+2. Databases: We can work with different databases, such as SQL, NoSQL, or graph databases, to extract and process data for generative art projects.
+3. CSV, JSON, XML, and other file formats: We can process data stored in common file formats like CSV, JSON, or XML, allowing for a seamless integration of data from diverse sources.
+4. Web scraping: We can extract data from websites through web scraping techniques, which can then be used as input for generative art algorithms.
+5. Real-time data streams: We have the ability to work with real-time data streams, such as IoT sensors, social media feeds, or any other data source providing a continuous flow of information.
+
+By understanding the data structure and format, our team can develop custom algorithms that can ingest and interpret the data in real-time. This allows us to create generative art that is responsive to the data inputs, resulting in innovative and engaging visualizations that captivate audiences and showcase the potential of data-driven art.
 
 ## AI Art
 
