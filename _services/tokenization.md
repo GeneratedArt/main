@@ -58,7 +58,11 @@ Our generative art tokenization service supports a wide range of blockchain plat
 
 6. Cardano: Cardano is a research-driven blockchain platform that emphasizes sustainability, scalability, and security. With the introduction of smart contracts and the upcoming support for native tokens, Cardano is becoming an increasingly popular choice for creating and managing NFTs, including those for generative art.
 
-# Legal and Compliance
+## Case Studies
+
+Coming soon..
+
+## Legal and Compliance
 
 We protect artists' rights, assist with copyright and licensing, and provide guidance on tax obligations and reporting. We also implement strict KYC and AML procedures, prioritize privacy and data protection, and adhere to relevant regulations. By addressing these issues, our service offers a secure, compliant environment for artists and collectors to participate in the digital art world while minimizing potential risks and uncertainties.
 
