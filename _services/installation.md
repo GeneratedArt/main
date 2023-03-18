@@ -6,17 +6,13 @@ weight: 6
 
 Generative art exhibitions aim to provide a seamless and immersive experience for wide range of audiences. The installation process is a crucial part of any exhibition, and the team works closely with clients to execute flawless installations.
 
-![Accounting Services](/images/illustrations/installation.png)
+![Installation](/images/illustrations/installation.png)
 
 Our team of experienced professionals understands the significance of the installation process and works closely with our clients to ensure flawless execution. With expertise in designing and installing complex generative art installations, we are equipped to handle projects of all sizes and scopes. From ideation to execution, we take pride in delivering high-quality installations that enhance the overall impact and message of each exhibition.
 
-# General overview
+# Introduction
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+We understand the unique challenges and requirements of showcasing generative art and are dedicated to providing seamless installation solutions that bring your artistic vision to life. Our team of experienced technicians and installers are passionate about generative art and committed to delivering the highest quality service, ensuring that each piece is displayed in the most engaging and impactful manner. 
 
 ## Relevance
 
