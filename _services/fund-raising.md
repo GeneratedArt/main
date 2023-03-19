@@ -42,7 +42,13 @@ In the context of fund raising, the role of the creative coder is even more cruc
 
 ## Data providers
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+The importance of data providers and the role of donors as data providers in the context of fundraising through generative art exhibitions cannot be overstated. Data providers are essential because they supply the information used to create generative art that reflects the cause being supported. By working closely with artists and creative coders, data providers ensure that the most up-to-date and accurate information is used to create impactful and meaningful art pieces.
+
+Donors can also serve as data providers, contributing valuable information that helps to create a more comprehensive picture of the cause being represented. This information can come from a variety of sources, such as personal experiences using text or digital media, research, or industry-specific knowledge. When donors contribute data, they are not only supporting the cause financially but also helping to raise awareness and generate interest through the unique and engaging generative art pieces created from their data.
+
+In the context of fundraising through generative art exhibitions, data providers play a vital role in creating a compelling narrative that resonates with audiences. The collaboration between organizations, artists, creative coders, and data providers ensures that the artwork produced effectively communicates the importance of the cause, encourages support, and raises funds for the organization's philanthropic initiatives.
+
+By leveraging the power of data, generative art exhibitions can create immersive and captivating experiences that not only entertain but also educate and inspire action. This unique approach to fundraising brings together creativity, technology, and data-driven insights, making it an effective method for raising awareness, generating interest, and securing funding for organizations and their philanthropic causes.
 
 ## Scope of Services:
 
