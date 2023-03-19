@@ -8,7 +8,7 @@ We offer a unique platform for venues and generative artists to showcase their w
 
 ![Promotion](/images/illustrations/promotion.png)
 
-# General overview
+# Overview
 
 Our promotion services offer exposure for generative art through various channels, including our social media pages, research publications, blog articles, online platforms, and public exhibitions. We aim to reach a diverse target audience, including:
 
