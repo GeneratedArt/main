@@ -10,7 +10,7 @@ We offer a range of services for printing 2D and 3D generative art. With our adv
 
 Our team of experienced professionals works closely with each client to ensure that their vision is realized in the final product. Contact us today to learn more about our printing services and how we can help bring your generative art to life.
 
-# General overview
+# Introduction
 
 Printing XY plotters and 3D printers are popular techniques used to create generative art for exhibitions. The XY plotters can print on a wide range of surfaces, such as paper, cardboard, vinyl, fabric, leather, wood, metal, and plastics. This allows for unique and captivating pieces to be created for display. 3D printers can be used to create sculptures or other 3D pieces using various materials, such as PETG, PLA, TPU, and wood. These techniques provide endless possibilities for creating interactive and immersive experiences for art enthusiasts and audiences.
 
