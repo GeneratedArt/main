@@ -3,7 +3,7 @@
 title: Apply
 layout: apply
 description: apply
-bodyClass: page-about
+bodyClass: page-basic
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
