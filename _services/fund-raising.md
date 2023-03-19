@@ -8,23 +8,11 @@ We believe in the power of generative art to create meaningful impact in the wor
 
 ![Fund raising](/images/illustrations/fund-raising.png)
 
-# General overview
+# Introduction
 
-Financial accounting and financial reporting are often used as synonyms.
+Our fundraising services focus on supporting organizations' philanthropic causes through generative art exhibitions, emphasizing the importance of securing funding by leveraging real-world data to demonstrate demand. We understand the power of art to inspire and engage people, making it an effective medium for raising awareness and funds for a wide range of causes. By incorporating real-world data into generative art exhibitions, we create unique and immersive experiences that not only captivate audiences but also provide compelling evidence of the need for support. Our tailored fundraising strategies combine the creative potential of generative art with data-driven insights to maximize the impact of philanthropic initiatives and help organizations achieve their goals in making a positive difference.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
-
-## Roles
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-### Organizations
+## Organizations
 
 Fund raising through generative art exhibitions allows organizations to creatively showcase their philanthropic causes and raise capital in a unique and engaging way. By using data that represents their cause, such as cancer research data or geographic food supply data, organizations can create generative art pieces that visually represent their cause in an artistic and abstract way using algorithms.
 
@@ -34,7 +22,7 @@ Generative art exhibitions also provide an opportunity for organizations to coll
 
 ![Organizations](/images/illustrations/blue.png)
 
-### Artists
+## Artists
 
 Artists play a crucial role in fund raising through generative art exhibitions. They bring a unique perspective to the creative process, often collaborating with organizations to support a cause and using their creative skills to transform data into visually compelling and thought-provoking art.
 
@@ -44,7 +32,7 @@ In addition to working with coders, generative artists may also collaborate with
 
 Through their creativity and dedication, generative artists are making a meaningful impact on the world of fund raising, using their art to raise awareness and support important causes.
 
-### Creative coders
+## Creative coders
 
 Creative coders play a crucial role in generative art exhibitions that aim to raise funds for charitable causes. They work closely with generative artists to create the algorithmic components of the artwork, which generate the unique visual and auditory output that is central to the exhibition. By collaborating with artists and data providers, creative coders can create complex and meaningful works of generative art that not only engage audiences but also raise awareness and funds for important causes.
 
@@ -52,9 +40,19 @@ Through their technical expertise and mastery of coding languages such as Python
 
 In the context of fund raising, the role of the creative coder is even more crucial. By collaborating with organisations to support a cause, they can create generative art that communicates important information in a visually compelling way. By using data that represents the cause, they can create unique and meaningful visual representations that engage audiences and raise awareness for the cause.
 
-### Data providers
+## Data providers
 
 Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+
+## Scope of Services:
+
+1. Data-driven visualization based on research data: We create engaging generative art exhibitions that incorporate research data, transforming complex information into visually compelling narratives. By presenting data in an accessible and captivating format, we help organizations convey the importance of their cause and demonstrate the need for support. Our team collaborates with organizations to understand their research data, identify key insights, and develop custom generative art installations that effectively communicate their message to a diverse audience.
+
+2. Payment protocols: To ensure seamless and secure transactions during fundraising events, we offer a range of payment protocols that cater to the preferences of donors and attendees. Our payment solutions include traditional methods such as credit card processing, as well as innovative options like cryptocurrency payments and QR code integration. We work closely with organizations to determine the most suitable payment options and implement the necessary infrastructure to facilitate smooth, secure, and efficient transactions throughout the event.
+
+3. Fundraising event planning and management: Our team of experienced event planners and managers work closely with organizations to design, plan, and execute successful fundraising events centered around generative art exhibitions. We take care of every aspect of event organization, from securing a suitable venue and promoting the event to managing logistics and coordinating with suppliers. Our attention to detail and commitment to excellence ensure that each fundraising event we manage is a memorable and impactful experience for attendees, helping organizations to maximize their fundraising potential and achieve their philanthropic goals.
+
+[Apply now!](/apply)
 
 # Articles
 
