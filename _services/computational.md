@@ -10,7 +10,7 @@ Utilizing computational services for generative art exhibitions can offer a rang
 
 Equipped with expertise in computational methods and generative art, our team can provide innovative and cutting-edge solutions for any project, helping to bring your artistic vision to life in ways you never thought possible.
 
-# General overview
+# Introduction
 
 Computational services for generative art exhibitions involve the use of advanced technology and computational methods to create and display art that is constantly evolving and changing. This type of art is created using algorithms that can be programmed to respond to various inputs or data sets. By integrating data provisioning, generative art can incorporate real-world data sets such as weather patterns, stock market fluctuations, or social media activity. This enables generative art to create unique and innovative pieces that are never the same and to visualize complex data in an artistic form. The possibilities are endless with computational generative art, ranging from 2D and 3D renders to AI-generated artwork. Our computational services team has expertise in utilizing neural networks, developing complex algorithms, and rendering high-quality pieces. This type of service is essential for organizations and artists looking to push the boundaries of traditional art and create immersive and interactive experiences for their audiences.
 
