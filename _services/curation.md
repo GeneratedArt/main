@@ -10,7 +10,7 @@ Dedicated to showcasing the best and most innovative works of generative art fro
 
 Our team of experienced curators carefully selects and reviews each piece of artwork, ensuring that it meets our high standards for creativity, technical proficiency, and artistic vision.
 
-# General overview
+# Overview
 
 As part of our curation process, we review the profiles of each artist whose work we consider for exhibition. This includes assessing their experience and background in generative art, as well as their overall artistic vision and aesthetic style. We believe that understanding the artist behind the artwork is essential to creating a rich and engaging exhibition experience for our audience.
 
@@ -32,7 +32,7 @@ Our curation process is based on three key principles to ensure a high-quality e
 
 Are you an exhibition organizer looking for innovative and engaging artwork to showcase? Let our curation service help! We specialize in selecting and curating the best and most innovative works of generative art from around the world. Our team of experienced curators carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency, artistic vision, and creativity. We also consider the cohesiveness of the overall exhibition to ensure a unique and engaging experience for your audience. Contact us today to learn how we can help create a one-of-a-kind generative art exhibition for your venue or event.
 
-# For Artists
+## For Artists
 
 Are you an artist working in the field of generative art? Let us showcase your work to the world! Our curation service carefully reviews and audits each piece of artwork, ensuring that it meets our high standards for technical proficiency and artistic vision. We also consider the artist's background and experience in generative art to create a rich and engaging exhibition experience for our audience. Join our community of innovative artists and let us help promote and advance the field of generative art. Contact us today to submit your work for consideration.
 
