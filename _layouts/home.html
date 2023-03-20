@@ -60,18 +60,17 @@ bodyClass: "page-home"
           <h2 class="feature-title">{{ feature.title }}</h2>
           <div class="feature-content">{{ feature.description }}</div>
         </div>
-      </div>
-      {% endfor %}
-
-    </div>
-    
-    <br></br>
+        
+      <br></br>
       <div class="row justify-content-center">
         <div class="col-auto">
-          <a class="button button-primary" href="{{ "apply" | relative_url }}">Apply Now</a>
+          <><a class="button button-primary" href="{{ "apply" | relative_url }}">Apply Now</a>
         </div>
       </div>
-
+        
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
 {% endif %}
