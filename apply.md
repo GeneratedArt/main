@@ -7,8 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Apply
-
 We are excited to support venues and generative artists who wish to showcase generative art works in captivating exhibitions. Whether you're a venue looking to organize a generative art exhibition or an artist seeking the perfect space to display your creations, you've come to the right place.
 
 Our team of professionals is dedicated to helping you create a memorable and engaging exhibition experience for your audience. We offer a range of services tailored to your specific needs, including technical support, exhibition design, promotion, and more. [See full list of services](/services)
