@@ -8,5 +8,3 @@ intro_image_hide_on_mobile: false
 ---
 
 # Apply
-
-![Apply](/images/illustrations/apply.png)
