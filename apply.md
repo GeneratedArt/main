@@ -1,12 +1,12 @@
 ---
-title: Team
+title: Apply
 layout: teams
 description: Apply
-permalink: "/team/"
+permalink: "/apply/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Apply
 
 ![Apply](/images/illustrations/apply.png)
