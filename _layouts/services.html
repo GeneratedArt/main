@@ -30,13 +30,8 @@ bodyClass: "page-services"
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
 
         </div>
-         <br></br>
-          <center>
-            <a class="button button-primary" href="{{ "quote" | relative_url }}">Ask Quote</a>
-          </center>
       </div>
     </div>
     {% endfor %}
-  
   </div>
 </div>
