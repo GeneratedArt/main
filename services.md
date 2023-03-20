@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Artistic innovation at its finest
 
-Our services offer the perfect blend of artistic innovation and technical expertise, featuring top-tier curation, lightning-fast payments, high-quality printing, expert asset management, technical support for installations, and strategic promotion.
+Our services provide top-tier curation of innovative generative art, limitless exhibition possibilities with computational services, fast payments, high-quality printing, fundraising opportunities, seamless installations, and global promotion. We also offer tokenization for ownership and trade.
