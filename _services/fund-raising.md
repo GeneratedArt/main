@@ -34,15 +34,13 @@ Working closely with creative coders, generative artists can transform complex d
 
 We recognize the power of generative art in fund raising and support generative artists in their efforts to create impactful art for important causes. By connecting artists with organizations and providing them with the resources they need to bring their vision to life, we are helping to promote positive change through the power of art. Additionally, we assist artists in securing grants and investments to support their work, ensuring that they have the funding they need to continue creating innovative generative art.
 
-## Creative coders
+## Artists & Creative coders
 
-Creative coders play a vital role in generative art exhibitions that raise funds for charitable causes. They collaborate with generative artists to create the algorithmic components of the artwork or may take on the roles of both artist and creative coder to generate the unique visual and auditory output that is central to the exhibition.
+As a platform dedicated to nurturing creativity, we recognize the crucial role that artists and creative coders play in the world of generative art. Our mission is to provide a supportive and collaborative environment where artists and coders can access a range of opportunities to develop their projects.
 
-As a platform dedicated to supporting the creative development of artists, we recognize the important role that creative coders play in the world of generative art. We provide guidance and resources to help creative coders access a variety of grants and investments that can support their development projects. These opportunities can come from government organizations, private foundations, and venture capital firms, and may have specific criteria or limitations.
+We offer guidance and resources to help them access a variety of grants and investments that can support their projects. These opportunities can come from diverse sources such as government organizations, private foundations, and venture capital firms, and we help navigate the application process to maximize their chances of success.
 
-By collaborating with artists and data providers, creative coders can create complex and meaningful works of generative art that not only engage audiences but also raise awareness and funds for important causes. Through their technical expertise and mastery of coding languages, creative coders are able to bring the vision of the artist to life and create a work of art that is not only aesthetically pleasing but also informative and impactful.
-
-On our platform, we encourage and support the collaboration between artists, creative coders, and data providers to create generative art that makes a positive difference in the world. Through our resources and guidance, we help artists and creative coders access the funding and support they need to continue creating innovative work that inspires and engages audiences.
+Collaboration between artists, creative coders, and data providers is crucial in some cases for creating impactful generative art that engages audiences and raises awareness and funds for important causes. The artists use their creativity to transform complex data sets into visually compelling and thought-provoking art, while the creative coders bring the artist's vision to life with their technical expertise and mastery of coding languages. Some individuals may take on both roles, serving as both artist and creative coder. With the support of data providers and organizations, this collaboration creates unique, impactful works of generative art that inspire positive change in society.
 
 ## Data providers
 
@@ -61,6 +59,8 @@ By leveraging the power of data, generative art exhibitions can create immersive
 2. Payment protocols: To ensure seamless and secure transactions during fundraising events, we offer a range of payment protocols that cater to the preferences of donors and attendees. Our payment solutions include traditional methods such as credit card processing, as well as innovative options like cryptocurrency payments and QR code integration. We work closely with organizations to determine the most suitable payment options and implement the necessary infrastructure to facilitate smooth, secure, and efficient transactions throughout the event.
 
 3. Fundraising event planning and management: Our team of experienced event planners and managers work closely with organizations to design, plan, and execute successful fundraising events centered around generative art exhibitions. We take care of every aspect of event organization, from securing a suitable venue and promoting the event to managing logistics and coordinating with suppliers. Our attention to detail and commitment to excellence ensure that each fundraising event we manage is a memorable and impactful experience for attendees, helping organizations to maximize their fundraising potential and achieve their philanthropic goals.
+
+4. Assistance with navigating grant and investment application processes: We provide guidance and support to generative artists and creative coders in accessing grants and investments that can support their development projects. Our team helps navigate the application process and identify suitable funding opportunities from government organizations, private foundations, and venture capital firms to maximize the chances of success. We also offer advice on meeting specific criteria or limitations and provide resources for artists to develop compelling proposals. 
 
 # Articles
 
