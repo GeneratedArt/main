@@ -64,7 +64,7 @@ Coming soon..
 
 ## Legal and Compliance
 
-We protect artists' rights, assist with copyright and licensing, and provide guidance on tax obligations and reporting. We also implement strict KYC and AML procedures, prioritize privacy and data protection, and adhere to relevant regulations. By addressing these issues, our service offers a secure, compliant environment for artists and collectors to participate in the digital art world while minimizing potential risks and uncertainties.
+We protect artists' rights, assist with copyright and licensing, and provide guidance on tax obligations and reporting. We can also implement strict KYC and AML procedures if necessary, prioritize privacy and data protection, and adhere to relevant regulations. By addressing these issues, our service offers a secure, compliant environment for artists and collectors to participate in the digital art world while minimizing potential risks and uncertainties.
 
 # Articles
 
