@@ -4,13 +4,17 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help individuals and organizations raise capital for different causes through the creation and sale of generative art.
+We believe in the power of generative art to create meaningful impact in the world. That's why we offer a range of services to help artists and organizations raise capital for different causes through the creation and sale of generative art.
 
 ![Fund raising](/images/illustrations/fund-raising.png)
 
 # Introduction
 
-Our fundraising services focus on supporting organizations' philanthropic causes through generative art exhibitions, emphasizing the importance of securing funding by leveraging real-world data to demonstrate demand. We understand the power of art to inspire and engage people, making it an effective medium for raising awareness and funds for a wide range of causes. By incorporating real-world data into generative art exhibitions, we create unique and immersive experiences that not only captivate audiences but also provide compelling evidence of the need for support. Our tailored fundraising strategies combine the creative potential of generative art with data-driven insights to maximize the impact of philanthropic initiatives and help organizations achieve their goals in making a positive difference.
+Our fundraising services focus on supporting organizations’ philanthropic causes through generative art exhibitions, emphasizing the importance of securing funding by leveraging real-world data to demonstrate demand. We understand the power of art to inspire and engage people, making it an effective medium for raising awareness and funds for a wide range of causes.
+
+Our platform offers a service to help generative artists navigate the world of grants and investments to support their work. Through our guidance, artists can access a range of opportunities from government organizations, private foundations, and venture capital firms. By incorporating real-world data into generative art exhibitions, we create unique and immersive experiences that not only captivate audiences but also provide compelling evidence of the need for support.
+
+Our tailored fundraising strategies combine the creative potential of generative art with data-driven insights to maximize the impact of philanthropic initiatives and help organizations achieve their goals in making a positive difference. By utilizing our services, generative artists can access funding and resources to develop their work and bring it to market while also making a meaningful impact through their art.
 
 ## Organizations
 
@@ -18,31 +22,31 @@ Fund raising through generative art exhibitions allows organizations to creative
 
 These generative art pieces can then be exhibited at a public exhibition, where they can be sold to art enthusiasts and collectors to raise funds for the organization's cause. The use of generative art not only allows organizations to raise funds for their cause, but also provides a platform to raise awareness and educate the public on the importance of their cause.
 
-Generative art exhibitions also provide an opportunity for organizations to collaborate with artists, technologists, and other creatives to bring their vision to life. This collaboration can result in unique and impactful works of art that not only raise funds, but also inspire and engage the audience.
+GeneratedArt also provide an opportunity for organizations to collaborate with artists, technologists, and other creatives to bring their vision to life. This collaboration can result in unique and impactful works of art that not only raise funds, but also inspire and engage the audience.
 
 ![Organizations](/images/illustrations/blue.png)
 
 ## Artists
 
-Artists play a crucial role in fund raising through generative art exhibitions. They bring a unique perspective to the creative process, often collaborating with organizations to support a cause and using their creative skills to transform data into visually compelling and thought-provoking art.
+Generative artists can leverage their unique perspective and creativity to make a meaningful impact on fund raising through generative art exhibitions. By collaborating with organizations, they can use their creative skills to transform data into visually compelling and thought-provoking art that captivates audiences and raises awareness for important causes.
 
-Collaboration is key in this process, as generative artists often work closely with creative coders who specialize in coding the algorithmic parts of the artwork. Together, they can transform complex data sets into beautiful and engaging generative art that captures the attention of viewers and helps raise awareness for important causes.
+Working closely with creative coders, generative artists can transform complex data sets into beautiful and engaging generative art that highlights key issues and inspires action. They may also collaborate with data providers to ensure that they have access to the most up-to-date and accurate information.
 
-In addition to working with coders, generative artists may also collaborate with data providers to ensure that they have access to the most up-to-date and accurate information. By using this data as a basis for their generative art, they can help shine a spotlight on important issues and encourage people to take action.
-
-Through their creativity and dedication, generative artists are making a meaningful impact on the world of fund raising, using their art to raise awareness and support important causes.
+We recognize the power of generative art in fund raising and support generative artists in their efforts to create impactful art for important causes. By connecting artists with organizations and providing them with the resources they need to bring their vision to life, we are helping to promote positive change through the power of art. Additionally, we assist artists in securing grants and investments to support their work, ensuring that they have the funding they need to continue creating innovative generative art.
 
 ## Creative coders
 
-Creative coders play a crucial role in generative art exhibitions that aim to raise funds for charitable causes. They work closely with generative artists to create the algorithmic components of the artwork, which generate the unique visual and auditory output that is central to the exhibition. By collaborating with artists and data providers, creative coders can create complex and meaningful works of generative art that not only engage audiences but also raise awareness and funds for important causes.
+Creative coders play a vital role in generative art exhibitions that raise funds for charitable causes. They collaborate with generative artists to create the algorithmic components of the artwork or may take on the roles of both artist and creative coder to generate the unique visual and auditory output that is central to the exhibition.
 
-Through their technical expertise and mastery of coding languages such as Python and Processing, creative coders are able to bring the vision of the artist to life. They work with data providers to gather and process information that is used to create the generative algorithms, which are then programmed into the artwork to generate the final output. By working together, the artist, creative coder, and data provider can create a work of art that is not only aesthetically pleasing but also informative and impactful.
+As a platform dedicated to supporting the creative development of artists, we recognize the important role that creative coders play in the world of generative art. We provide guidance and resources to help creative coders access a variety of grants and investments that can support their development projects. These opportunities can come from government organizations, private foundations, and venture capital firms, and may have specific criteria or limitations.
 
-In the context of fund raising, the role of the creative coder is even more crucial. By collaborating with organisations to support a cause, they can create generative art that communicates important information in a visually compelling way. By using data that represents the cause, they can create unique and meaningful visual representations that engage audiences and raise awareness for the cause.
+By collaborating with artists and data providers, creative coders can create complex and meaningful works of generative art that not only engage audiences but also raise awareness and funds for important causes. Through their technical expertise and mastery of coding languages, creative coders are able to bring the vision of the artist to life and create a work of art that is not only aesthetically pleasing but also informative and impactful.
+
+On our platform, we encourage and support the collaboration between artists, creative coders, and data providers to create generative art that makes a positive difference in the world. Through our resources and guidance, we help artists and creative coders access the funding and support they need to continue creating innovative work that inspires and engages audiences.
 
 ## Data providers
 
-The importance of data providers and the role of donors as data providers in the context of fundraising through generative art exhibitions cannot be overstated. Data providers are essential because they supply the information used to create generative art that reflects the cause being supported. By working closely with artists and creative coders, data providers ensure that the most up-to-date and accurate information is used to create impactful and meaningful art pieces.
+The importance of data providers and the role of donors as data providers in the context of fundraising through generative art exhibitions cannot be overstated. Data providers may be essential in some cases because they supply the information used to create generative art that reflects the cause being supported. By working closely with artists and creative coders, data providers ensure that the most up-to-date and accurate information is used to create impactful and meaningful art pieces.
 
 Donors can also serve as data providers, contributing valuable information that helps to create a more comprehensive picture of the cause being represented. This information can come from a variety of sources, such as personal experiences using text or digital media, research, or industry-specific knowledge. When donors contribute data, they are not only supporting the cause financially but also helping to raise awareness and generate interest through the unique and engaging generative art pieces created from their data.
 
@@ -57,8 +61,6 @@ By leveraging the power of data, generative art exhibitions can create immersive
 2. Payment protocols: To ensure seamless and secure transactions during fundraising events, we offer a range of payment protocols that cater to the preferences of donors and attendees. Our payment solutions include traditional methods such as credit card processing, as well as innovative options like cryptocurrency payments and QR code integration. We work closely with organizations to determine the most suitable payment options and implement the necessary infrastructure to facilitate smooth, secure, and efficient transactions throughout the event.
 
 3. Fundraising event planning and management: Our team of experienced event planners and managers work closely with organizations to design, plan, and execute successful fundraising events centered around generative art exhibitions. We take care of every aspect of event organization, from securing a suitable venue and promoting the event to managing logistics and coordinating with suppliers. Our attention to detail and commitment to excellence ensure that each fundraising event we manage is a memorable and impactful experience for attendees, helping organizations to maximize their fundraising potential and achieve their philanthropic goals.
-
-[Apply now!](/apply)
 
 # Articles
 
