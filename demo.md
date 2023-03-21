@@ -3,7 +3,7 @@
 title: Demo
 layout: demo
 description: demo
-bodyClass: page-about
+bodyClass: page-services
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
