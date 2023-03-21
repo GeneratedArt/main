@@ -10,7 +10,7 @@ Our platform hosts nodes for various payment channels, including VISA/MasterCard
 
 With our secure and reliable infrastructure, we provide lightning-fast payment solutions for our clients, enabling them to transact with ease and convenience. Our commitment to using the latest technology ensures that our nodes are always up-to-date and fully optimized for performance, security, and scalability.
 
-# General overview
+# Introduction
 
 Our payment solutions for generative art exhibitions offer a range of options to make purchasing or bidding on artwork seamless and secure. Customers can use traditional payment methods such as VISA or MasterCard by using a payment terminal, SWIFT international wire transfers, as well as popular cryptocurrencies such as Bitcoin, Ethereum, Tezos, Cardano, or Solana.
 
@@ -21,9 +21,6 @@ Bidding during generative art exhibitions is made easy and accessible through th
 Once bidding is closed, the highest bidder will be charged for their winning bid. It's important to note that to protect bidders from inflated prices, no bidding is authorized from the organizers, artists, or anyone related to the project. This ensures a fair and transparent bidding process for all interested buyers.
 
 Visitors also have the option to purchase art pieces directly through our service. By scanning a QR code provided next to the artwork, visitors can select their preferred payment option and complete the transaction. Once payment is confirmed, the buyer can then leave with the generative art.
-
-## Credit card and wire transfers
-
 
 ## Lightning network for Bitcoin
 
