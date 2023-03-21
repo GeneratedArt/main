@@ -67,5 +67,3 @@ By leveraging the power of data, generative art exhibitions can create immersive
 [The Power of Generative Art for Philanthropy](https://medium.com/generatedart/the-power-of-generative-art-for-philanthropy-953d655dda08)
 
 [Impact of Data-Driven Art on Scientific Discovery and Innovation](https://medium.com/generatedart/impact-of-data-driven-art-on-scientific-discovery-and-innovation-c60f126aeb65)
-
-[Emotional XYZ sound wave](https://medium.com/generatedart/emotional-xyz-sound-wave-a1c5b7f3bb34)
