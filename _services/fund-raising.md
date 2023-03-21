@@ -26,14 +26,6 @@ GeneratedArt also provide an opportunity for organizations to collaborate with a
 
 ![Organizations](/images/illustrations/blue.png)
 
-## Artists
-
-Generative artists can leverage their unique perspective and creativity to make a meaningful impact on fund raising through generative art exhibitions. By collaborating with organizations, they can use their creative skills to transform data into visually compelling and thought-provoking art that captivates audiences and raises awareness for important causes.
-
-Working closely with creative coders, generative artists can transform complex data sets into beautiful and engaging generative art that highlights key issues and inspires action. They may also collaborate with data providers to ensure that they have access to the most up-to-date and accurate information.
-
-We recognize the power of generative art in fund raising and support generative artists in their efforts to create impactful art for important causes. By connecting artists with organizations and providing them with the resources they need to bring their vision to life, we are helping to promote positive change through the power of art. Additionally, we assist artists in securing grants and investments to support their work, ensuring that they have the funding they need to continue creating innovative generative art.
-
 ## Artists & Creative coders
 
 As a platform dedicated to nurturing creativity, we recognize the crucial role that artists and creative coders play in the world of generative art. Our mission is to provide a supportive and collaborative environment where artists and coders can access a range of opportunities to develop their projects.
