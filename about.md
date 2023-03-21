@@ -21,7 +21,7 @@ GeneratedArt is an innovative platform that was first established as a blog in 2
 
 Guillaume Lauzier, the founder of GeneratedArt, has extensive experience in event planning, technology, and digital art. He manages the GeneratedArt exhibitions and is always at the forefront of new technologies and innovation.
 
-Guillaume Lauzier's experience in events includes working for almost two years at the Crochetan Theatre in Switzerland, where he helped on technical sets for concerts. He has also worked for two years at Dorier International Group, mainly on multinational corporate events. As an independent video reporter and producer, he has worked for four years on festivals and different corporate events. As an independent artist, Guillaume has worked on VJ sets, music production and interactive installations. This diverse range of experience has made him an expert in his field and well-equipped to manage GeneratedArt exhibitions.
+Guillaume Lauzier's experience in events includes working for almost two years at the Crochetan Theatre in Switzerland (Jan 2004 - Sep 2005), where he helped on technical sets for concerts. He has also worked for two years at Dorier International Group (Aug 2011 - Jun 2013), mainly on multinational corporate events. As an independent video reporter and producer, he has worked for four years on festivals and different corporate events (Jun 2012 - Jan 2017). As an independent artist, Guillaume has worked on VJ sets, music production and interactive installations. This diverse range of experience has made him an expert in his field and well-equipped to manage GeneratedArt exhibitions.
 
 # Articles
 
