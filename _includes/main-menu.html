@@ -1,19 +1,19 @@
 <div id="main-menu" class="main-menu">
-  {% assign mainmenu = site.data.menus | sort: 'weight' %}
+  {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
   <ul>
     {% for item in mainmenu %}
       {% if item.children.size > 0 %}
         <li class="dropdown {% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url | relative_url }}" class="dropdown-toggle">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}" class="dropdown-toggle">{{ item.name }}</a>
           <ul class="dropdown-menu">
             {% for child in item.children %}
-              <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+              <li><a href="{{ child.url | relative_url }}">{{ child.name }}</a></li>
             {% endfor %}
           </ul>
         </li>
       {% else %}
         <li class="{% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
         </li>
       {% endif %}
     {% endfor %}
