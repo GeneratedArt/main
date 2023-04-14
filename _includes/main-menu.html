@@ -1,22 +1,25 @@
 <div id="main-menu" class="main-menu">
   {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
-  <ul>
+  <ul class="navbar-nav">
     {% for item in mainmenu %}
       {% if item.children.size > 0 %}
-        <li class="dropdown {% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url | relative_url }}" class="dropdown-toggle">{{ item.name }}</a>
-          <ul class="dropdown-menu">
+        <li class="nav-item dropdown {% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url | relative_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ item.name }}
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             {% for child in item.children %}
-              <li><a href="{{ child.url | relative_url }}">{{ child.name }}</a></li>
+              <a class="dropdown-item" href="{{ child.url | relative_url }}">{{ child.name }}</a>
             {% endfor %}
-          </ul>
+          </div>
         </li>
       {% else %}
-        <li class="{% if item.url == page.url %}active{% endif %}">
-          <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        <li class="nav-item {% if item.url == page.url %}active{% endif %}">
+          <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
         </li>
       {% endif %}
     {% endfor %}
   </ul>
 </div>
+
 
