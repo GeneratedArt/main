@@ -14,27 +14,6 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "Language"
-    weight: 6
-    children:
-      - name: "中文"
-        url: "../"
-      - name: "Español"
-        url: "#"
-      - name: "हिन्दी"
-        url: "../"
-      - name: "العربية"
-        url: "#"
-      - name: "Português"
-        url: "../"
-      - name: "Pусский"
-        url: "#"
-      - name: "Français"
-        url: "../"
-      - name: "Deutsch"
-        url: "#"
-      - name: "日本語"
-        url: "#"
 
 footer:
   - name: "Main site"
