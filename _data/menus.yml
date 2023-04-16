@@ -14,6 +14,20 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Language"
+    url: "#"
+    weight: 6
+    children:
+      - name: "English"
+        icon: "us"
+        url: "/en/"
+      - name: "Español"
+        icon: "es"
+        url: "/es/"
+      - name: "Français"
+        icon: "fr"
+        url: "/fr/"
+
 
 footer:
   - name: "Main site"
