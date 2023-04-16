@@ -17,21 +17,27 @@ main:
   - name: "/en"
           icon: "us"
           url: "/en/"
+          weight: 6
   - name: "/es"
           icon: "es"
           url: "/es/"
+          weight: 7
   - name: "/pt"
           icon: "pt"
           url: "/pt/"
+          weight: 8
   - name: "/fr"
           icon: "fr"
           url: "/fr/"
+          weight: 9
   - name: "/de"
           icon: "de"
           url: "/de/"
+          weight: 10
   - name: "/it"
           icon: "it"
           url: "/it/"
+          weight: 11
 
 
 footer:
