@@ -14,19 +14,24 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
-  - name: "Language"
-    url: "#"
-    weight: 6
-    children:
-      - name: "English"
-        icon: "us"
-        url: "/en/"
-      - name: "Español"
-        icon: "es"
-        url: "/es/"
-      - name: "Français"
-        icon: "fr"
-        url: "/fr/"
+  - name: "/en"
+          icon: "us"
+          url: "/en/"
+  - name: "/es"
+          icon: "es"
+          url: "/es/"
+  - name: "/pt"
+          icon: "pt"
+          url: "/pt/"
+  - name: "/fr"
+          icon: "fr"
+          url: "/fr/"
+  - name: "/de"
+          icon: "de"
+          url: "/de/"
+  - name: "/it"
+          icon: "it"
+          url: "/it/"
 
 
 footer:
