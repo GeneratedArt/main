@@ -15,26 +15,20 @@ main:
     url: "/contact/"
     weight: 5
   - name: "/es"
-          icon: "es"
           url: "/es/"
           weight: 6
   - name: "/pt"
-          icon: "pt"
           url: "/pt/"
           weight: 7
   - name: "/fr"
-          icon: "fr"
           url: "/fr/"
           weight: 8
   - name: "/de"
-          icon: "de"
           url: "/de/"
           weight: 9
   - name: "/it"
-          icon: "it"
           url: "/it/"
           weight: 10
-
 
 footer:
   - name: "Main site"
