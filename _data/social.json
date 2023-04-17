@@ -1,15 +1,5 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/generatedart",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Discord",
-    "link": "https://discord.com/generatedart",
-    "image": "images/social/discord.svg"
-  },
-  {
     "name": "Twitter",
     "link": "https://twitter.com/generatedart",
     "image": "images/social/twitter.svg"
