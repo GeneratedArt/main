@@ -15,19 +15,19 @@ main:
     url: "/contact/"
     weight: 5
   - name: "/es"
-    url: "/es/"
+    url: "https://expo.es.generatedart.com"
     weight: 6
   - name: "/pt"
-    url: "/pt/"
+    url: "https://expo.pt.generatedart.com"
     weight: 7
   - name: "/fr"
-    url: "/fr/"
+    url: "https://expo.fr.generatedart.com"
     weight: 8
   - name: "/de"
-    url: "/de/"
+    url: "https://expo.de.generatedart.com"
     weight: 9
   - name: "/it"
-    url: "/it/"
+    url: "https://expo.it.generatedart.com"
     weight: 10
 
 footer:
