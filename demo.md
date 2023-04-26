@@ -1,9 +1,10 @@
-
 ---
 title: Demo
-layout: demo
-description: demo
-bodyClass: page-demo
+layout: teams
+description: Demo
+permalink: "/Demo/"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
