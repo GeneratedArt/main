@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-description: Contact
+description: Join us on our generative art journey! Feel free to contact us for any enquiries or questions. If you're a venue interested in hosting our exhibitions, or an artist keen on showcasing your innovative works, we invite you to submit your application. We're excited to collaborate and help bring generative art to the world.
 ---
 
 Thank you for wanting to join us on our generative art journey! If you have any general enquiries or questions, please do not hesitate to contact us via email or form bellow. We would be happy to hear from you and assist in any way we can.
