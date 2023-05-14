@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: About
+description: Explore the world of generative art with GeneratedArt, your ultimate platform for innovative computational services and immersive exhibitions. We are committed to making generative art accessible to all, revealing the hidden algorithms of life and data in a meaningful way. Join us in pushing the boundaries of traditional art and technology, and experience the transformative power of generative art.
 bodyClass: page-about
 ---
 
