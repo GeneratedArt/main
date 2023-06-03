@@ -1,6 +1,6 @@
 ---
 title: Project
-layout: teams
+layout: project
 description: Project
 permalink: "/project/"
 intro_image_absolute: true
