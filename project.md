@@ -1,5 +1,5 @@
 ---
-title: Project
+title:
 layout: project
 description: Project
 permalink: "/project/"
