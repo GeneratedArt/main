@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-Absolutely, here's an example of how a generative art artist might describe their algorithm development project:
+Here's an example of how a generative art artist might describe their algorithm development project:
 
 **Project: "Sonic Flora"**
 
