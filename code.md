@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Code
 layout: services
 description: Experience artistic innovation with GeneratedArt. We offer top-tier curation of generative art, limitless exhibition possibilities, seamless installations, and global promotion. Benefit from our fast payments, high-quality printing, fundraising opportunities, and tokenization for ownership and trade. Explore the future of art with us.
 intro_image: "images/illustrations/services.png"
