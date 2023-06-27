@@ -2,7 +2,7 @@ main:
   - name: "#ArtIsCode"
     url: "/"
     weight: 1
-  - name: "CodeIsArt"
+  - name: "#CodeIsArt"
     url: "/code/"
     weight: 2
 
